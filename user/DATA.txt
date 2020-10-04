@@ -1,0 +1,4 @@
+Jhon, 25, Tallinn
+Mary, 17, Tallinn
+Anna, 47, Tallinn
+Nikolai, 12, Riga
