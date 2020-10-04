@@ -1,0 +1,4 @@
+Moscow 41 50 38 44 60
+Tallinn 48 52 40 51 56
+El Paso Airport int 72 63 61 71 66
+Yolo 9 19 20 2
